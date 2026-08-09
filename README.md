@@ -24,7 +24,7 @@ A responsive calculator built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-Live Demo will be added after deployment.
+https://portfolio-muhammad-ahsan.vercel.app/
 
 ## Project Structure
 
